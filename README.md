@@ -1,5 +1,5 @@
 # DS_Final
-Final Project For Introduction to Data Sceince
+Final Project For Introduction to Data Science
 
 Cryptocurrency-based data set in R, comparing cryptos either before, during, and after COVID or comparing them from the start of this year
 
@@ -10,4 +10,5 @@ Cryptocurrency-based data set in R, comparing cryptos either before, during, and
 - Create Presentation
 
 Saturday: Build project plan from data: manipulate and analyze: (maybe Shiny App) 
+
 Sunday: Create Markdown: Make Presentation

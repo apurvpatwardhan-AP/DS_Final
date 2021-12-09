@@ -9,5 +9,5 @@ Cryptocurrency-based data set in R, comparing cryptos either before, during, and
 - Create Project Markdown and maybe Shiny App
 - Create Presentation
 
-Saturday: Build project plan from data: manipulate and analyze: (maybe Shiny App)
+Saturday: Build project plan from data: manipulate and analyze: (maybe Shiny App) \n
 Sunday: Create Markdown: Make Presentation

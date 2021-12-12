@@ -1,1 +1,4 @@
-
+library(coinmarketcapr)
+key <- "7af5a062-4ee8-4a22-8056-078a95df0fb3"
+coinmarketcapr::setup(key)
+cryptos <- get_crypto_listings(limit = 50)
